@@ -112,8 +112,8 @@ public class Simulation
         }
 
         var response = await CroesusApi.PostCroesusValidation(actions, a);
-        Console.WriteLine(response.StatusCode);
 
+        Console.WriteLine(a);
         StreamReader s = new StreamReader(response.Content.ReadAsStream());
         Console.WriteLine(s.ReadToEnd());
     }

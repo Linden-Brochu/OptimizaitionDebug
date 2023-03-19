@@ -1,0 +1,82 @@
+[
+    {
+      "Action": "BUY",
+      "Ticker": "META",
+      "Date": "2023-01-03"
+    },
+    {
+      "Action": "SELL",
+      "Ticker": "META",
+      "Date": "2023-01-04"
+    },
+    {
+      "Action": "BUY",
+      "Ticker": "META",
+      "Date": "2023-01-05"
+    },
+    {
+      "Action": "SELL",
+      "Ticker": "META",
+      "Date": "2023-01-06"
+    },
+    {
+      "Action": "BUY",
+      "Ticker": "AMZN",
+      "Date": "2023-01-09"
+    },
+    {
+      "Action": "SELL",
+      "Ticker": "AMZN",
+      "Date": "2023-01-12"
+    },
+    {
+      "Action": "BUY",
+      "Ticker": "MSFT",
+      "Date": "2023-01-17"
+    },
+    {
+      "Action": "SELL",
+      "Ticker": "MSFT",
+      "Date": "2023-01-18"
+    },
+    {
+      "Action": "BUY",
+      "Ticker": "GOOG",
+      "Date": "2023-01-19"
+    },
+    {
+      "Action": "SELL",
+      "Ticker": "GOOG",
+      "Date": "2023-01-20"
+    },
+    {
+      "Action": "BUY",
+      "Ticker": "META",
+      "Date": "2023-01-23"
+    },
+    {
+      "Action": "SELL",
+      "Ticker": "META",
+      "Date": "2023-01-24"
+    },
+    {
+      "Action": "BUY",
+      "Ticker": "MSFT",
+      "Date": "2023-01-25"
+    },
+    {
+      "Action": "SELL",
+      "Ticker": "MSFT",
+      "Date": "2023-01-26"
+    },
+    {
+      "Action": "BUY",
+      "Ticker": "AAPL",
+      "Date": "2023-01-27"
+    },
+    {
+      "Action": "SELL",
+      "Ticker": "AAPL",
+      "Date": "2023-01-30"
+    }
+  ]

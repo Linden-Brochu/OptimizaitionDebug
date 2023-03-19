@@ -1,0 +1,52 @@
+[
+    {
+      "Action": "BUY",
+      "Ticker": "UAL",
+      "Date": "2023-01-03"
+    },
+    {
+      "Action": "SELL",
+      "Ticker": "UAL",
+      "Date": "2023-01-12"
+    },
+    {
+      "Action": "BUY",
+      "Ticker": "UAL",
+      "Date": "2023-01-13"
+    },
+    {
+      "Action": "SELL",
+      "Ticker": "UAL",
+      "Date": "2023-01-18"
+    },
+    {
+      "Action": "BUY",
+      "Ticker": "LUV",
+      "Date": "2023-01-19"
+    },
+    {
+      "Action": "SELL",
+      "Ticker": "LUV",
+      "Date": "2023-01-20"
+    },
+    {
+      "Action": "BUY",
+      "Ticker": "UAL",
+      "Date": "2023-01-23"
+    },
+    {
+      "Action": "SELL",
+      "Ticker": "UAL",
+      "Date": "2023-01-26"
+    },
+    {
+      "Action": "BUY",
+      "Ticker": "LUV",
+      "Date": "2023-01-27"
+    },
+    {
+      "Action": "SELL",
+      "Ticker": "LUV",
+      "Date": "2023-01-30"
+    }
+  ]
